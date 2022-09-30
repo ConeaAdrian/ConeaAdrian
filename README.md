@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpalii&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **ConeaAdrian/ConeaAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
