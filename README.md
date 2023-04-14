@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/conea-adrian/)
 
-![Language Badge](https://img.shields.io/badge/-Language_Name-Color?style=flat-square&logo=Logo_Name&logoColor=Logo_Color)
+![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=React&logoColor=white)
 
 <!--
 **ConeaAdrian/ConeaAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
