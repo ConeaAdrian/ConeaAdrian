@@ -1,8 +1,10 @@
 ### Hi there 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/conea-adrian/)
 <!--
 **ConeaAdrian/ConeaAdrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/NUMELE-TAU-AICI/)
+
 
 
 Here are some ideas to get you started:
